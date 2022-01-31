@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#booleaner{
+    background-image: url(../img/pattern.png);
+    height: 170px;
+    background-color: rgba(78,160,255,255);
+}
+h1{
+    margin-top: 20px;
+}
+
+.clear{
+    color: rgba(0, 0, 0, 0.6);
+}
+.author{
+    color:rgba(42,173,230,255);
+}
+
+h5{
+    margin-bottom: 20px;
+}
+.description{
+    font-size: 15px;
+}

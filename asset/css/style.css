@@ -35,3 +35,10 @@ h1{
 .ul{
     margin-left: 20px;
 }
+thead{
+    color: white;
+    background-color: rgba(32,169,229,255);
+}
+.blue{
+    background-color: rgba(177,229,242,255)
+}

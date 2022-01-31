@@ -20,9 +20,18 @@ h1{
     color:rgba(42,173,230,255);
 }
 
-h5{
+.margin-b-20{
     margin-bottom: 20px;
+}
+.margin-b-35{
+    margin-bottom: 35px;
 }
 .description{
     font-size: 15px;
+}
+.highlighted{
+    background-color: yellow;
+}
+.ul{
+    margin-left: 20px;
 }
